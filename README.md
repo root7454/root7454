@@ -37,11 +37,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=root7454&" alt="root7454" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=root7454&show_icons=true&locale=en&layout=compact" alt="root7454" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=root7454&show_icons=true&locale=en" alt="root7454" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=root7454&" alt="root7454" /></p>
 
 ### 🔝 Top Contributed Repo
 
