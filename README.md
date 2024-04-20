@@ -42,5 +42,5 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=root7454&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/root7454/root7454/output/github-contribution-grid-snake.svg" />
   
