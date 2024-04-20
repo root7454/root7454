@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          node-version: '20'
       
       - uses: Platane/snk@master
         id: snake-gif
