@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java**
 
-- 👨‍💻 All of my projects are available at [www.swapnilharale.online](www.swapnilharale.online)
+- 👨‍💻 All of my projects are available at [https://www.swapnilharale.online](https://www.swapnilharale.online)
 
 - 📝 I regularly write articles on [https://realtechsec.blogspot.com](https://realtechsec.blogspot.com)
 
