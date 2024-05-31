@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root7454&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
 
-- 🔭 I’m currently working on [Collage Placement Cell](https://github.com/root7454/Placement_Cell)
+- 🔭 I’m currently working on My Project - Collage Placement Management System Using MERN STACK..
 
 - 🌱 I’m currently learning **Full Stack Java**
 
